@@ -8,4 +8,4 @@
 - 一些与编程的看似不相关实际息息相关的东西
 
 [GitHub](https://github.com/yuqing521/Programming-self-help-guide)
-[马上阅读](/hello)
+[马上阅读](/0x00)
